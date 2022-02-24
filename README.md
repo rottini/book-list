@@ -5,15 +5,15 @@
 
 ### Screenshot
 
-![](./img/screenshot1.JPG)
+![](./img/screenshot-1.JPG)
 
 ### Screenshot
 
-![](./img/screenshot2.JPG)
+![](./img/screenshot-2.JPG)
 
 ### Screenshot
 
-![](./img/screenshot3.JPG)
+![](./img/screenshot-3.JPG)
 
 
 ### Links
